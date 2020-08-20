@@ -13,15 +13,31 @@
     </image>
     
     <item>
-      <title>External Project</title>
-      <link>https://hycasia.github.io/project/external-project/</link>
+      <title>Iris Recognition</title>
+      <link>https://hycasia.github.io/project/iris-recognition/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://hycasia.github.io/project/external-project/</guid>
+      <guid>https://hycasia.github.io/project/iris-recognition/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Internal Project</title>
+      <title>Periocular Recognition</title>
+      <link>https://hycasia.github.io/project/periocular-recognition/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://hycasia.github.io/project/periocular-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sclera Recognition</title>
+      <link>https://hycasia.github.io/project/sclera-recognition/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://hycasia.github.io/project/sclera-recognition/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Other Internal Project</title>
       <link>https://hycasia.github.io/project/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://hycasia.github.io/project/internal-project/</guid>

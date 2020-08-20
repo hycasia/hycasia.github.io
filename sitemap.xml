@@ -33,63 +33,53 @@
   </url>
   
   <url>
-    <loc>https://hycasia.github.io/post/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
+    <loc>https://hycasia.github.io/publication-type/1/</loc>
+    <lastmod>2020-08-20T07:42:58+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hycasia.github.io/post/writing-technical-content/</loc>
-    <lastmod>2019-07-12T00:00:00+00:00</lastmod>
+    <loc>https://hycasia.github.io/publication-type/2/</loc>
+    <lastmod>2020-08-20T07:42:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hycasia.github.io/publication/afdr-iris-recognition/afdr-iris-recognition/</loc>
+    <lastmod>2020-08-20T07:42:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hycasia.github.io/authors/</loc>
+    <lastmod>2020-08-20T07:42:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hycasia.github.io/author/min-ren/</loc>
+    <lastmod>2020-08-20T07:42:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hycasia.github.io/publication_types/</loc>
+    <lastmod>2020-08-20T07:42:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hycasia.github.io/publication/</loc>
+    <lastmod>2020-08-20T07:42:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hycasia.github.io/tag/source-themes/</loc>
+    <lastmod>2020-08-20T07:42:58+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hycasia.github.io/tags/</loc>
+    <lastmod>2020-08-20T07:42:58+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://hycasia.github.io/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hycasia.github.io/publication-type/3/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hycasia.github.io/publication/preprint/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hycasia.github.io/authors/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hycasia.github.io/author/nelson-bighetti/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hycasia.github.io/publication_types/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hycasia.github.io/publication/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hycasia.github.io/tag/source-themes/</loc>
-    <lastmod>2019-04-07T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hycasia.github.io/tags/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hycasia.github.io/post/jupyter/</loc>
-    <lastmod>2019-09-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -103,7 +93,7 @@
   </url>
   
   <url>
-    <loc>https://hycasia.github.io/tag/deep-learning/</loc>
+    <loc>https://hycasia.github.io/dataset/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -113,12 +103,32 @@
   </url>
   
   <url>
-    <loc>https://hycasia.github.io/project/external-project/</loc>
+    <loc>https://hycasia.github.io/tag/iris-recognition/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hycasia.github.io/project/internal-project/</loc>
+    <loc>https://hycasia.github.io/dataset/iris-recognition/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hycasia.github.io/project/iris-recognition/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hycasia.github.io/tag/ocular-recognition/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hycasia.github.io/dataset/periocular-recognition/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hycasia.github.io/project/periocular-recognition/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -128,63 +138,35 @@
   </url>
   
   <url>
-    <loc>https://hycasia.github.io/tag/academic/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>https://hycasia.github.io/dataset/sclera-recognition/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hycasia.github.io/post/getting-started/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>https://hycasia.github.io/project/sclera-recognition/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hycasia.github.io/dataset/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hycasia.github.io/project/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://hycasia.github.io/categories/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://hycasia.github.io/category/demo/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
+    <loc>https://hycasia.github.io/author/leyuan-wang/</loc>
   </url>
   
   <url>
-    <loc>https://hycasia.github.io/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hycasia.github.io/tag/%E5%BC%80%E6%BA%90/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hycasia.github.io/category/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2019-04-17T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hycasia.github.io/publication-type/2/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hycasia.github.io/publication/journal-article/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hycasia.github.io/author/robert-ford/</loc>
-    <lastmod>2015-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hycasia.github.io/publication-type/1/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hycasia.github.io/publication/conference-paper/</loc>
-    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+    <loc>https://hycasia.github.io/author/min-ren/</loc>
   </url>
   
   <url>
