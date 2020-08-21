@@ -108,7 +108,17 @@
   </url>
   
   <url>
+    <loc>https://hycasia.github.io/benchmark/iris-recognition/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hycasia.github.io/dataset/iris-recognition/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hycasia.github.io/post/iris-recognition/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -123,7 +133,17 @@
   </url>
   
   <url>
+    <loc>https://hycasia.github.io/benchmark/periocular-recognition/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hycasia.github.io/dataset/periocular-recognition/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hycasia.github.io/post/periocular-recognition/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -133,7 +153,22 @@
   </url>
   
   <url>
+    <loc>https://hycasia.github.io/benchmark/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hycasia.github.io/post/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hycasia.github.io/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hycasia.github.io/benchmark/sclera-recognition/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -143,12 +178,27 @@
   </url>
   
   <url>
+    <loc>https://hycasia.github.io/post/sclera-recognition/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hycasia.github.io/project/sclera-recognition/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
+    <loc>https://hycasia.github.io/benchmark/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hycasia.github.io/dataset/internal-project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hycasia.github.io/post/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -162,6 +212,14 @@
   </url>
   
   <url>
+    <loc>https://hycasia.github.io/author/hongda-liu/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hycasia.github.io/author/junxing-hu/</loc>
+  </url>
+  
+  <url>
     <loc>https://hycasia.github.io/author/leyuan-wang/</loc>
   </url>
   
@@ -170,7 +228,15 @@
   </url>
   
   <url>
+    <loc>https://hycasia.github.io/author/tianhao-lu/</loc>
+  </url>
+  
+  <url>
     <loc>https://hycasia.github.io/author/yong-he/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hycasia.github.io/author/zhengquan-luo/</loc>
   </url>
   
 </urlset>
