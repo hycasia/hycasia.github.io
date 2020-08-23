@@ -33,6 +33,36 @@
   </url>
   
   <url>
+    <loc>https://hycasia.github.io/tag/internal/</loc>
+    <lastmod>2020-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hycasia.github.io/tag/iris-recognition/</loc>
+    <lastmod>2020-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hycasia.github.io/post/iris-recognition/</loc>
+    <lastmod>2020-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hycasia.github.io/post/</loc>
+    <lastmod>2020-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hycasia.github.io/tags/</loc>
+    <lastmod>2020-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hycasia.github.io/post/internal-project/</loc>
+    <lastmod>2020-08-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hycasia.github.io/publication-type/1/</loc>
     <lastmod>2020-08-20T07:42:58+00:00</lastmod>
   </url>
@@ -73,11 +103,6 @@
   </url>
   
   <url>
-    <loc>https://hycasia.github.io/tags/</loc>
-    <lastmod>2020-08-20T07:42:58+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hycasia.github.io/courses/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
@@ -98,27 +123,12 @@
   </url>
   
   <url>
-    <loc>https://hycasia.github.io/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hycasia.github.io/tag/iris-recognition/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hycasia.github.io/benchmark/iris-recognition/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://hycasia.github.io/dataset/iris-recognition/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hycasia.github.io/post/iris-recognition/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -158,11 +168,6 @@
   </url>
   
   <url>
-    <loc>https://hycasia.github.io/post/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hycasia.github.io/project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
@@ -194,11 +199,6 @@
   
   <url>
     <loc>https://hycasia.github.io/dataset/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hycasia.github.io/post/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
