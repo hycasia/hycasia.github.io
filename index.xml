@@ -98,22 +98,59 @@
     </item>
     
     <item>
-      <title>Alignment Free and Distortion Robust Iris Recognition</title>
-      <link>https://hycasia.github.io/publication/afdr-iris-recognition/afdr-iris-recognition/</link>
-      <pubDate>Thu, 20 Aug 2020 07:42:58 +0000</pubDate>
-      <guid>https://hycasia.github.io/publication/afdr-iris-recognition/afdr-iris-recognition/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Slides&lt;/em&gt; button above to demo Academic&amp;rsquo;s Markdown slides feature.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including [code and math](&lt;a href=&#34;https://sourcethemes.com/#&#34;&gt;https://sourcethemes.com/#&lt;/a&gt; academic/docs/writing-markdown-latex/).&lt;/p&gt;
-</description>
+      <title>A Novel Deep-learning Pipeline for Light Field Image Based Material Recognition</title>
+      <link>https://hycasia.github.io/publication/wang-icpr-2020/</link>
+      <pubDate>Thu, 02 Jul 2020 21:57:47 +0800</pubDate>
+      <guid>https://hycasia.github.io/publication/wang-icpr-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>High-fidelity View Synthesis for Light Field Imaging with Extended Pseudo 4DCNN</title>
+      <link>https://hycasia.github.io/publication/wang-tci-2020/</link>
+      <pubDate>Thu, 02 Jul 2020 21:36:56 +0800</pubDate>
+      <guid>https://hycasia.github.io/publication/wang-tci-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Iris Liveness Detection Based on Light Field Imaging</title>
+      <link>https://hycasia.github.io/publication/song-automatica2019/</link>
+      <pubDate>Mon, 17 Feb 2020 17:23:05 +0800</pubDate>
+      <guid>https://hycasia.github.io/publication/song-automatica2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recognition Oriented Iris Image Quality Assessment in the Feature Space</title>
+      <link>https://hycasia.github.io/publication/wang-ijcb2020/</link>
+      <pubDate>Mon, 17 Feb 2020 16:12:05 +0800</pubDate>
+      <guid>https://hycasia.github.io/publication/wang-ijcb2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Binocular Light-Field: Imaging Theory and Occlusion-Robust Depth Perception Application</title>
+      <link>https://hycasia.github.io/publication/liu-tip-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hycasia.github.io/publication/liu-tip-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Graph Representation for Occlusion Handling in Biometrics</title>
+      <link>https://hycasia.github.io/publication/ren-2020-dynamic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hycasia.github.io/publication/ren-2020-dynamic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ScleraSegNet: An Attention Assisted U-Net Model for Accurate Sclera Segmentation</title>
+      <link>https://hycasia.github.io/publication/wang-tbiom-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://hycasia.github.io/publication/wang-tbiom-2020/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -251,6 +288,46 @@ Three
     </item>
     
     <item>
+      <title>Alignment Free and Distortion Robust Iris Recognition</title>
+      <link>https://hycasia.github.io/publication/ren-2019-alignment/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hycasia.github.io/publication/ren-2019-alignment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-sensor iris recognition using adversarial strategy and sensor-specific information</title>
+      <link>https://hycasia.github.io/publication/csin-btas-2019/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://hycasia.github.io/publication/csin-btas-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LFNet: A Novel Bidirectional Recurrent Convolutional Neural Network for Light-Field Image Super-Resolution</title>
+      <link>https://hycasia.github.io/publication/wang-tip-2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://hycasia.github.io/publication/wang-tip-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>End-to-End View Synthesis for Light Field Imaging with Pseudo 4DCNN</title>
+      <link>https://hycasia.github.io/publication/wang-eccv-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://hycasia.github.io/publication/wang-eccv-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A simple and robust super resolution method for light field images</title>
+      <link>https://hycasia.github.io/publication/wang-icip-2016/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      <guid>https://hycasia.github.io/publication/wang-icip-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Iris Recognition</title>
       <link>https://hycasia.github.io/benchmark/iris-recognition/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
@@ -375,6 +452,14 @@ Three
 &lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
 &lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>4D light-field sensing system for people counting</title>
+      <link>https://hycasia.github.io/publication/hou-spie-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://hycasia.github.io/publication/hou-spie-2016/</guid>
+      <description></description>
     </item>
     
   </channel>
