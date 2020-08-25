@@ -53,12 +53,17 @@
   </url>
   
   <url>
-    <loc>https://hycasia.github.io/post/internal-news/</loc>
-    <lastmod>2020-07-13T00:00:00+00:00</lastmod>
+    <loc>https://hycasia.github.io/post/sclera-recognition/</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://hycasia.github.io/tag/internal/</loc>
+    <lastmod>2020-08-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hycasia.github.io/post/internal-news/</loc>
     <lastmod>2020-07-13T00:00:00+00:00</lastmod>
   </url>
   
@@ -439,11 +444,6 @@
   
   <url>
     <loc>https://hycasia.github.io/dataset/sclera-recognition/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hycasia.github.io/post/sclera-recognition/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
