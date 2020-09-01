@@ -22,14 +22,6 @@
     
     <item>
       <title>Periocular Recognition</title>
-      <link>https://hycasia.github.io/dataset/periocular-recognition/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://hycasia.github.io/dataset/periocular-recognition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Periocular Recognition</title>
       <link>https://hycasia.github.io/project/periocular-recognition/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://hycasia.github.io/project/periocular-recognition/</guid>
@@ -41,14 +33,6 @@
       <link>https://hycasia.github.io/benchmark/sclera-recognition/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://hycasia.github.io/benchmark/sclera-recognition/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Sclera Recognition</title>
-      <link>https://hycasia.github.io/dataset/sclera-recognition/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://hycasia.github.io/dataset/sclera-recognition/</guid>
       <description></description>
     </item>
     

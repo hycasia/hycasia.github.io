@@ -483,17 +483,7 @@
   </url>
   
   <url>
-    <loc>https://hycasia.github.io/dataset/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hycasia.github.io/benchmark/iris-recognition/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hycasia.github.io/dataset/iris-recognition/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -509,11 +499,6 @@
   
   <url>
     <loc>https://hycasia.github.io/benchmark/periocular-recognition/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hycasia.github.io/dataset/periocular-recognition/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -538,22 +523,12 @@
   </url>
   
   <url>
-    <loc>https://hycasia.github.io/dataset/sclera-recognition/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://hycasia.github.io/project/sclera-recognition/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://hycasia.github.io/benchmark/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hycasia.github.io/dataset/internal-project/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url>
   
@@ -585,6 +560,10 @@
   <url>
     <loc>https://hycasia.github.io/tag/rgb-d-sensor/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hycasia.github.io/dataset/</loc>
   </url>
   
   <url>
