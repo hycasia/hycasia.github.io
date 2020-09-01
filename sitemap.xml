@@ -408,6 +408,31 @@
   </url>
   
   <url>
+    <loc>https://hycasia.github.io/publication/yan-2018-liveness/</loc>
+    <lastmod>2018-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hycasia.github.io/tag/iris-liveness-detection/</loc>
+    <lastmod>2018-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hycasia.github.io/author/lingxiao-he/</loc>
+    <lastmod>2018-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hycasia.github.io/author/man-zhang/</loc>
+    <lastmod>2018-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hycasia.github.io/author/zihui-yan/</loc>
+    <lastmod>2018-01-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hycasia.github.io/tag/computational-photography/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -425,6 +450,16 @@
   <url>
     <loc>https://hycasia.github.io/tag/pseudo-4dcnn/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hycasia.github.io/author/haiqing-li/</loc>
+    <lastmod>2017-07-20T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hycasia.github.io/publication/ren-ccbr-2017/</loc>
+    <lastmod>2017-07-20T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -557,15 +592,7 @@
   </url>
   
   <url>
-    <loc>https://hycasia.github.io/publication/yan-2018-liveness/</loc>
-  </url>
-  
-  <url>
     <loc>https://hycasia.github.io/author/hongda-liu/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hycasia.github.io/tag/iris-liveness-detection/</loc>
   </url>
   
   <url>
@@ -582,14 +609,6 @@
   
   <url>
     <loc>https://hycasia.github.io/author/leyuan-wang/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hycasia.github.io/author/lingxiao-he/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hycasia.github.io/author/man-zhang/</loc>
   </url>
   
   <url>
@@ -626,10 +645,6 @@
   
   <url>
     <loc>https://hycasia.github.io/author/zihui-yan/</loc>
-  </url>
-  
-  <url>
-    <loc>https://hycasia.github.io/author/zihun-yan/</loc>
   </url>
   
 </urlset>
