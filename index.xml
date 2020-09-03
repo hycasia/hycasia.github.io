@@ -77,10 +77,35 @@
     </item>
     
     <item>
+      <title>Iris Recognition</title>
+      <link>https://hycasia.github.io/project/iris-recognition/</link>
+      <pubDate>Wed, 02 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>https://hycasia.github.io/project/iris-recognition/</guid>
+      <description>&lt;div style=&#34;WIDTH:100%; HEIGHT:100%&#34;&gt;
+&lt;font color=#00BFFF size = 5 &gt;&lt;strong&gt; &amp;emsp;&amp;emsp;虹膜识别是进一步提升安全性、可靠性的必由之路&lt;/strong&gt; &amp;emsp;&amp;emsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&lt;/font&gt;
+&lt;font color=#00BFFF size = 5 &gt;&lt;strong&gt; &amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;&amp;emsp;———谭铁牛院士&lt;/strong&gt;&lt;/font&gt;  
+&lt;div style=&#34;width:800px;&#34;&gt;&lt;font color=#000000 size = 5 &gt;&amp;emsp;&amp;emsp;虹膜识别是最具潜力的生物识别方法之一，是识别率高、非接触性、防欺骗性好的识别方法。虹膜属于人眼的一部分，如下图所示。&lt;/font&gt;
+&lt;div style=&#34;float:right; clear: both;&#34; align=&#34;center&#34;&gt;&lt;img src=&#34;iris.png&#34; width=&#34;300&#34; alt=&#34;&#34; hspace=&#34;8&#34;&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div style=&#34;width:800px;&#34;&gt;&lt;font color=#000000 size = 5 &gt;&amp;emsp;&amp;emsp;人眼的外观主要由巩膜、虹膜、瞳孔三部分组成，其中巩膜即眼球外围的白色部分，约占人眼总面积的30%，眼睛的中心为瞳孔部分，约占5%，虹膜位于巩膜和瞳孔之间，约占整个眼睛的65%，包含了最丰富的纹理信息，外观上看，虹膜由许多腺窝、褶皱、色素斑等构成，是人体中最独特的结构之一。因为瞳孔、虹膜和巩膜一般颜色不同，灰度值呈梯度变化，所以根据它们灰度不同，可以将它们明显分开。从几何形状可以看出，虹膜的内、外边界可以近似为圆形，这使它具有易检测性。临床观察发现：虹膜在人的一生当中几乎不发生变化，只有很少的虹膜纹理可能会由于年龄或者外伤导致纹理破坏。&lt;/font&gt;&lt;/div&gt;
+&lt;div style=&#34;width:800px;&#34;&gt;&lt;font color=#000000 size = 5 &gt;&amp;emsp;&amp;emsp;作为表示个人身份的标识物，必须具备作为身份标识的重要特征。人脸、指纹等许多生物特征具有作为身份标识的特性，但是，虹膜在这些特性方面表现的更为突出，具有许多先天优势，是其他生物特征无法与之媲美的。&lt;/font&gt;
+&lt;div style=&#34;width:800px;&#34;&gt;&lt;font color=#000000 size = 5 &gt;&lt;ul type=&#39;circle&#39;&gt;&lt;li&gt;普遍性————虹膜是每个人天生都具有的。&lt;/li&gt;&lt;li&gt;唯一性————虹膜的纤维组织细节复杂而丰富，每个人错综复杂的虹膜独一无二，只与虹膜的形成过程有关。&lt;/li&gt;&lt;li&gt;稳定性————虹膜从婴儿胚胎发育的第三个月起开始发育，到第八个月虹膜的主要纹理结构已经成形。&lt;/li&gt;&lt;li&gt;非入侵检测————从一定距离即可获得虹膜数字图像，无需用户接触设备。&lt;/li&gt;&lt;li&gt;可接受程度好————虹膜识别以其认证准确度高、速度快、安全性高，被用户所接受。&lt;/li&gt;&lt;li&gt;可检测性————利用图像处理技术检测出虹膜边界，易于拟合分割和和归一化&lt;/li&gt;&lt;li&gt;防伪性高————虹膜的半径小，在可见光下中国人的虹膜图像呈现深褐色，看不到纹理信息，需要虹膜图像专业采集设备和用户的配合，所以一般情况下很难被盗取&lt;/li&gt;&lt;li&gt;防欺骗性好————虹膜的唯一性决定了不同人眼的虹膜很难被冒充模仿。&lt;/li&gt;&lt;/ul&gt;
+&lt;div style=&#34;width:800px;&#34;&gt;&lt;font color=#000000 size = 5 &gt;&amp;emsp;&amp;emsp;生物特征识别通过捕获生物样本，然后采用数学方法把样本转化成相同大小的模板，提取有效的可区别性特征，就可以客观地和其他一个完整的虹膜身份识别系统主要由四个部分组成：虹膜图像获取、虹膜图像预处理、虹膜特征提取、模式比对。
+&lt;/font&gt;
+&lt;div style=&#34;width:800px;&#34;&gt;&lt;font color=#000000 size = 5 &gt;&lt;ol&gt;&lt;li&gt;虹膜图像获取&lt;/li&gt;  
+&amp;emsp;虹膜图像采集的目的是为了获取有效的虹膜图像，在传统的虹膜识别场景中，通常采用专业的成像装置在近红外光（波长700nm到900nm）照射和用户的配合下才能捕获清晰的高分辨率虹膜图像。近些年来，随着光学镜头、传感器和计算成像技术等的发展，虹膜识别的可用距离不断变大，相关装置也变得越来越轻巧实用，“远距离”、“行进中”、“移动端”和“可见光下”等少约束场景的虹膜识别对于用户使用时的约束越来越少，极大地提升了虹膜识别应用范围和用户友好性。
+&lt;li&gt;虹膜图像预处理&lt;/li&gt;
+虹膜图像除了必须的虹膜区域以外，也包含了诸如巩膜、睫毛、瞳孔等非虹膜区域，因此不能直接用于虹膜识别。其次，一些噪声茹照明变化、睫毛遮挡、镜面反射、瞳孔放缩等会明显增加虹膜的类内差异，降低虹膜的识别率。常规的虹膜预处理步骤包括：虹膜活体检测、虹膜图像质量评估、虹膜分割、虹膜归一化和虹膜图像增强。
+&lt;li&gt;虹膜图像特征分析&lt;/li&gt;
+虹膜图像特征分析主要包含两部分：特征提取和对比分类。虹膜特征提取是指从归一化的虹膜图像中提取紧凑有区分的虹膜特征，然后使用计算机可以存储和读取的格式进行编码。虹膜比对和分类(或者称为匹配)是指将提取的虹膜特征编码和事先在数据库注册过的虹膜特征编码通过某种相似性度量比如汉明距离、余弦距离进行对比，计算相似性分数，依次确定用户身份。
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
       <title>MediaPipe Iris</title>
-      <link>https://hycasia.github.io/post/periocular-recognition/</link>
+      <link>https://hycasia.github.io/post/mediapipe-iris/</link>
       <pubDate>Sat, 08 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://hycasia.github.io/post/periocular-recognition/</guid>
+      <guid>https://hycasia.github.io/post/mediapipe-iris/</guid>
       <description>&lt;!--&lt;div align=&#39;center&#39;&gt;&lt;font size=&#39;10&#39;&gt;MediaPipe Iris 实时虹膜跟踪和深度估计&lt;/font&gt;&lt;/div&gt;    
 &lt;div style=&#39;display:none&#39;&gt;
 标题居中
@@ -141,9 +166,9 @@
     
     <item>
       <title>How does iris recognize identity successfully?</title>
-      <link>https://hycasia.github.io/post/sclera-recognition/</link>
+      <link>https://hycasia.github.io/post/how-does-iris-recognize-identity-successfully/</link>
       <pubDate>Wed, 05 Aug 2020 00:00:00 +0000</pubDate>
-      <guid>https://hycasia.github.io/post/sclera-recognition/</guid>
+      <guid>https://hycasia.github.io/post/how-does-iris-recognize-identity-successfully/</guid>
       <description>&lt;p&gt;  8月5日晚芒果台，中科院自动化研究所智能感知与计算研究中心助理研究员王云龙老师带你探索虹膜识别的奥秘&lt;/p&gt;
 &lt;iframe frameborder=&#34;0&#34; width=&#34;720px&#34; height=&#34;480px&#34; src=&#34;https://www.mgtv.com/s/9538853.html&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 </description>
@@ -151,9 +176,9 @@
     
     <item>
       <title>Academician introduces you to iris recognition</title>
-      <link>https://hycasia.github.io/post/internal-news/</link>
+      <link>https://hycasia.github.io/post/academician-introduces-you-to-iris-recognition/</link>
       <pubDate>Mon, 13 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://hycasia.github.io/post/internal-news/</guid>
+      <guid>https://hycasia.github.io/post/academician-introduces-you-to-iris-recognition/</guid>
       <description>&lt;p&gt;  7月13日播出的CCTV-1《生活圈》节目中，谭铁牛院士现身为观众介绍了虹膜识别技术。谭铁牛院士介绍到：“虹膜识别是一种相对比较新颖的生物特征识别技术，下一步虹膜识别技术会进一步朝着移动化、便捷化以及和其他的相关的生物特征识别技术，比如人脸识别技术，相融合的方向发展，具有非常广阔的发展空间。”&lt;/p&gt;
 &lt;iframe frameborder=&#34;0&#34; width=&#34;720px&#34; height=&#34;480px&#34; src=&#34;20200713_17347661f3d_r29_800k.mp4&#34; allowFullScreen=&#34;true&#34;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
@@ -429,9 +454,9 @@ Three
     
     <item>
       <title>Iris recognition is the general trend?</title>
-      <link>https://hycasia.github.io/post/iris-recognition/</link>
+      <link>https://hycasia.github.io/post/iris-recognition-is-the-general-trend/</link>
       <pubDate>Tue, 18 Apr 2017 00:00:00 +0000</pubDate>
-      <guid>https://hycasia.github.io/post/iris-recognition/</guid>
+      <guid>https://hycasia.github.io/post/iris-recognition-is-the-general-trend/</guid>
       <description> &lt;font size=&#39;5&#39;&gt;
  &amp;emsp;&amp;emsp;2017年4月27日，微软获得了一项虹膜识别技术的专利，未来该技术将纳入 Windows Hello ，用于微软旗下的智能手机、笔记本等设备中。
  &lt;/font&gt;
@@ -466,11 +491,12 @@ Three
     </item>
     
     <item>
-      <title>Iris Recognition</title>
-      <link>https://hycasia.github.io/project/iris-recognition/</link>
+      <title>Light Field Photography</title>
+      <link>https://hycasia.github.io/project/light-field-photography/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://hycasia.github.io/project/iris-recognition/</guid>
-      <description></description>
+      <guid>https://hycasia.github.io/project/light-field-photography/</guid>
+      <description>&lt;p&gt;光场成像技术&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -510,19 +536,6 @@ Three
       <link>https://hycasia.github.io/benchmark/internal-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       <guid>https://hycasia.github.io/benchmark/internal-project/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>The Other Internal Project</title>
-      <link>https://hycasia.github.io/project/internal-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>https://hycasia.github.io/project/internal-project/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
 &lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
