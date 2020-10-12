@@ -51,7 +51,7 @@
 &lt;div align=center&gt;
 &lt;img src=&#34;d9331ef1d8864e79a8288a210f869815.png&#34; alt=&#34;show&#34; width=&#34;700&#34; height=&#34;260&#34;，&gt;
 &lt;div align=&#39;center&#39;&gt;&lt;font size=&#39;3&#39;&gt;裁剪的眼睛区域形成模型的输入，而它将通过单独的组件预测界标&lt;/div&gt; 
-&lt;p&gt;&lt;strong&gt;&lt;div align=left&gt;&lt;font color=#000000 size=5 face=&#34;黑体&#34;&gt;2. 虹膜深度：用单个图像进行深度估计&lt;/font&gt;&lt;/strong&gt; 
+&lt;p&gt;&lt;strong&gt;&lt;div align=left&gt;&lt;font color=#000000 size=5 face=&#34;黑体&#34;&gt;2. 虹膜深度：用单个图像进行深度估计&lt;/font&gt;&lt;/strong&gt;
 &lt;font size=&#39;5&#39;&gt;  无需任何专门的硬件，这个虹膜追踪模型能够以不到10％的误差确定对象到摄像头的度量距离。相关的原理事实是，人眼的水平直径虹膜基本恒定为11.7±0.5毫米。作为说明，请想象将针孔摄像头模型投影到正方形像素的传感器。你可以使用摄像头的焦距估计从面部界标到对象的距离，而这可以通过Camera Capture API或直接从捕获图像的EXIF元数据，以及其他摄像头固有参数进行获取。给定焦距，对象到摄像头的距离与对象眼睛的物理尺寸成正比，如下图所示&lt;/p&gt;
 &lt;div align=center&gt;
 &lt;img src=&#34;366c2353e9654a7998c87ac32c491daf.png&#34; alt=&#34;show&#34; width=&#34;700&#34; height=&#34;500&#34;，&gt;
